@@ -1,7 +1,7 @@
 ## Future Ready Talent Project
 # Interactive Dental Healthcare Website : 
--> Delpoyed using Microsoft Azure Static Web App 
--> Interactive Customer Care chat box installed in website made with Microsoft Azure QnA makers 
+-> Delpoyed using Microsoft Azure App Service(Static Web App) 
+-> Interactive Customer Care chat box installed in website made with Microsoft Azure Bot Service (QnA makers) 
 
 
 ## Website
