@@ -1,7 +1,7 @@
 ## Future Ready Talent Project
 # Interactive Dental Healthcare Website : 
--> Delpoyed using Microsoft Azure App Service(Static Web App) 
--> Interactive Customer Care chat box installed in website made with Microsoft Azure Bot Service (QnA makers) 
+-> Delpoyed using Microsoft Azure App Service(Static Web App). 
+-> Interactive Customer Care chat box installed in website made with Microsoft Azure Bot Service (QnA makers).
 
 
 ## Website
@@ -36,7 +36,7 @@ Website running on GitHub generated URL:
 
 ## Creation and Implementation of Microsoft Auzure Services
 
-### QnA Maker
+### Azure Bot Service -> QnA Maker
 
 Creating QnA Maker NLP Service - Training the AI to answer queries:
 <img width="1728" alt="image" src="https://user-images.githubusercontent.com/100034802/175567219-8e1cd1eb-8a0c-4b06-8ef9-23fcf43ab401.png">
@@ -51,7 +51,7 @@ Placing the code in Contact.html:
 <img width="1728" alt="Screenshot 2022-06-24 at 9 01 32 PM" src="https://user-images.githubusercontent.com/100034802/175568391-21e5654e-b748-44c7-b03e-033ae994d765.png">
 
 
-### Static Web App
+### App Engine -> Static Web App
 
 Creation of Static Website:
 <img width="1728" alt="image" src="https://user-images.githubusercontent.com/100034802/175568443-9c27b30e-799c-40f3-9a35-a92366011120.png">
